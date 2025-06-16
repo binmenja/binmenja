@@ -22,5 +22,10 @@ I’m a PhD Candidate at McGill University, specializing in atmospheric radiatio
 
 
 ## GitHub Stats
-![Benjamin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=binmenja&show_icons=true&theme=dark)
 
+|                                                                     Statistiques                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![](https://activity-graph.herokuapp.com/graph?username=binmenja&theme=react-dark&hide_border=true&area=true) |
+| ![](https://github-readme-stats.vercel.app/api?username=binmenja&show_icons=true&theme=algolia)              |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=binmenja&theme=algolia)                    |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=binmenja&langs_count=8&theme=algolia&layout=compact&custom_title=Langages%20que%20j%27utilise) |
