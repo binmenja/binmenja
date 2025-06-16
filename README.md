@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Benjamin
+# Hey! 👋 I'm Benjamin Riot--Bretêcher
 
 I’m a PhD Candidate at McGill University, specializing in atmospheric radiation. I integrate hyperspectral measurements, advanced radiative transfer models, satellite data, machine learning, and reanalysis datasets to explore and quantify climate change impacts on infrared radiation. My work includes active involvement in field campaigns for satellite calibration/validation and extreme weather studies, with a focus on cold environments.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@binmenja-black)](https://github.com/binmenja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@binmenja-blue)](https://www.linkedin.com/in/benjamin-rb)
-[![Website](https://img.shields.io/badge/LinkedIn-@binmenja-blue)](https://binmenja.github.io/)
+[![Website](https://img.shields.io/badge/LinkedIn-@binmenja-red)](https://binmenja.github.io/)
 
 ## What I Do
 - Conduct in-depth research on radiative transfer and atmospheric radiation in cold environments
