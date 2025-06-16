@@ -4,7 +4,7 @@ I’m a PhD Candidate at McGill University, specializing in atmospheric radiatio
 
 [![GitHub](https://img.shields.io/badge/GitHub-@binmenja-black)](https://github.com/binmenja)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@binmenja-blue)](https://www.linkedin.com/in/benjamin-rb)
-[![Website](https://binmenja.github.io/)
+[![Website](https://img.shields.io/badge/LinkedIn-@binmenja-blue)](https://binmenja.github.io/)
 
 ## What I Do
 - Conduct in-depth research on radiative transfer and atmospheric radiation in cold environments
